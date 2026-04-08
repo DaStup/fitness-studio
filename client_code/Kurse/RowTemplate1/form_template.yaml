@@ -1,0 +1,13 @@
+components:
+- event_bindings: {}
+  layout_properties: {column: OORNSN}
+  name: button_anmelden
+  properties: {text: Anmelden}
+  type: Button
+- event_bindings: {}
+  layout_properties: {column: ASLUXT}
+  name: button_mitglider
+  properties: {text: Mitglieder}
+  type: Button
+container: {type: DataRowPanel}
+is_package: true
